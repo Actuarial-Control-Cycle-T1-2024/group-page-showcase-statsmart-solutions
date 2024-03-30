@@ -127,6 +127,10 @@ This assessment takes a conservative stance, concentrating solely on mortality s
 
 ### 4.1. Overall Savings and Benefits <a name="overallsavings"></a>
 
+<p align="center">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/savings_graph.png?raw=true" />
+</p>
+
 ### 5. Key Assumptions <a name="keyassumptions"></a>
 
 |     Metric                                    |     Assumed   Value                                                                                                                     |     Reasoning   including analysis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -159,6 +163,10 @@ This assessment takes a conservative stance, concentrating solely on mortality s
 |     Technology risk          |     The program relies heavily on both the   development and ongoing maintenance of the app.                           |     IT specialists within SuperLife will need   to focus on ensuring that the app is working smoothly. Several redundancy and   backup mechanisms must be in place. In the event of critical system failure,   failover mechanisms and recovery protocols must be in place.                                                                                                                                                    |
 
 ### 6.3 Risk Matrix <a name="riskmatrix"></a>
+
+<p align="center">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/risk_matrix.png?raw=true" />
+</p>
 
 ### 6.4 Sensitivity Analysis <a name="sensitivity"></a>
 
