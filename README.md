@@ -204,6 +204,6 @@ The program proposed by the StatSmart team offers SuperLife an excellent opportu
 
 * Titles + Table of contents + Page 1, 2, 3: Alex
 * Page 4, 5: Chantelle
-* Page 6, 7: Kate
-* Page 8, 9: Mohammed
+* Page 6, 7: Mohammed
+* Page 8, 9: Kate
 * Page 10, ONLY relevant Appendix: Ptolemy
