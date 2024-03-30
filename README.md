@@ -38,7 +38,7 @@
 
 [*6.3 Risk Matrix*](#riskmatrix)
 
-[*6.3 Sensitivity Analysis*](#sensitivity)
+[*6.4 Sensitivity Analysis*](#sensitivity)
 
 [*7. Limitations*](#limitations)
 
@@ -106,6 +106,7 @@ SuperLife will only award points to policyholders if they get a general health c
 ### 4.1. Overall Savings and Benefits <a name="overallsavings"></a>
 
 ### 5. Key Assumptions <a name="keyassumptions"></a>
+
 |     Metric                                    |     Assumed   Value                                                                                                                     |     Reasoning   including analysis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Mortality Adjustment                      |     88% for the general population and 811%   when modelling for smokers only                                                           |     Between 2001 and 2023, the observed   mortality was 12% lower than the rates predicted by Lumaria Mortality Table.   Consequently, we have recalibrated the mortality rates by applying a factor   of 88%, ensuring the mortality table aligns with the empirical data as a   baseline before applying any Mortality Improvements. This factor escalates to   811% when only smokers are modelled.                                                                                                                     |
@@ -113,6 +114,7 @@ SuperLife will only award points to policyholders if they get a general health c
 |     Participation Rates                       |     21% for Preventive Screening     45% for Cancer Prevention     37% for Financial Incentives     50% for Smoking Cessation           |     Based on research indicated in section 3.1   to 3.4 and Appendix B, we have assumed medium participation in each program   as a baseline for modelling.                                                                                                                                                                                                                                                                                                                                                                |
 |     Discount Rate                             |     2.0519%                                                                                                                             |     Utilizing the provided 1-year risk-free   annual spot rates from 2001-2023, we derived a single, consolidated discount   rate. This rate, weighted by the actual cash flows, effectively replicates   the present value that would have been obtained using the variable yearly   rates. This approach simplifies modelling and facilitates sensitivity   analysis.                                                                                                                                                    |
 |     App Development and   Maintenance Cost    |     Initial Value = Č 5,000,000     Per year cost = Č 2,000,000     Present Value (2.0519% discount rate) = Č100M                       |     Based on the article from DreamWalk (Russell,2023),   the average cost to develop an app was between $45,000 and $240,000. However,   it is mentioned that large companies spend millions of dollars a year to develop   and maintain apps. Therefore, a conservative estimate of 5,000,000 upfront   and 2,000,000 per year was calculated as the cost of the app.                                                                                                                                                    |
+
 
 ### 6. Risk and Risk Mitigation Considerations <a name="risksmitigation"></a>
 
@@ -136,7 +138,7 @@ SuperLife will only award points to policyholders if they get a general health c
 
 ### 6.3 Risk Matrix <a name="riskmatrix"></a>
 
-### 6.3 Sensitivity Analysis <a name="sensitivity"></a>
+### 6.4 Sensitivity Analysis <a name="sensitivity"></a>
 
 |     Assumption                 |     Net Savings   (000,000’s)    |               |     Recommended Range                                                                                                                                                                                                                                                                                                          |
 |--------------------------------|----------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -162,8 +164,8 @@ SuperLife will only award points to policyholders if they get a general health c
 ### 9. Appendix <a name="appendix"></a>
 
 
-* Titles + Table of contents + Page 1 and 2: Alex
-* Page 3, 4: Chantelle
-* Page 5, 6: Kate
-* Page 7, 8: Mohammed
-* Page 9, 10: Ptolemy
+* Titles + Table of contents + Page 1, 2, 3: Alex
+* Page 4, 5: Chantelle
+* Page 6, 7: Kate
+* Page 8, 9: Mohammed
+* Page 10, ONLY relevant Appendix: Ptolemy
