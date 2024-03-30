@@ -128,7 +128,7 @@ This assessment takes a conservative stance, concentrating solely on mortality s
 ### 4.1. Overall Savings and Benefits <a name="overallsavings"></a>
 The overall savings if the entire program was implemented between 2001 and 2023 would be Č4.6B. These net savings consist of Č6.5B in savings due to mortality improvement, less Č2B in total costs, which includes Č100M for app development (Russell, 2023). See Appendix E.3 and the supporting documents for more details on the full figures and modelling process. This program will also help SuperLife to generate an extra Č94M in savings from a 2% growth in customer base, as new policyholders are drawn by SuperLife’s unique and effective wellness program. This new business will be attracted via marketing schemes such as targeted advertisements on social media, referral programs from existing customers and community events with partner companies from the wellness program.
 
-Figure 2 below summarizes the expected mortality savings – in Billion Crowns - from each intervention, in addition to the implementation costs: 
+Figure 1 below summarizes the expected mortality savings – in Billion Crowns - from each intervention, in addition to the implementation costs: 
 
 <p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/savings_graph.png?raw=true" />
