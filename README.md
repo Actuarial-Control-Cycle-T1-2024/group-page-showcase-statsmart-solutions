@@ -121,6 +121,7 @@ To bring to life the program outlined above, it would be recommended that SuperL
 ### 4. Pricing/Costs <a name="pricencost"></a>
 This assessment takes a conservative stance, concentrating solely on mortality savings and excluding potential interest from surplus, to precisely evaluate the effectiveness of interventions on mortality. Key formulas are outlined below, with more detail in Appendix C.5.
 
+![Alt text](formula.png)
 
 ### 4.1. Overall Savings and Benefits <a name="overallsavings"></a>
 
