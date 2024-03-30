@@ -1,9 +1,9 @@
 # SuperLife Wellness Program Report
 
-#### March 2024
+### March 2024
 
-##### Team: StatSmart Solutions (UNSW - ACTL5100)
-##### Members: Kate Jones, Alex Kim, Ptolemy Sofianidis, Mohammed Fari, Chantelle Sun 
+### Team: StatSmart Solutions (UNSW - ACTL5100)
+### Members: Kate Jones, Alex Kim, Ptolemy Sofianidis, Mohammed Fari, Chantelle Sun 
 
 ## Table of contents
 [*1. Executive Summary*](#executivesum)
@@ -76,6 +76,12 @@ The StatSmart team have designed a program for SuperLife insurance that encompas
 Leveraging the rising trend of technology literacy in Lumaria, a gamified point system with financial incentives will be integrated within a new SuperLife app to encourage policyholders to live healthier lifestyles. Circulatory diseases are one of the leading contributors to policyholder deaths, responsible for 77% of all non-smoker deaths in the SuperLife dataset. The World Health Organization (WHO) (2015) states that more than 80% of premature heart attacks and strokes are preventable by behavioural choices, including sustaining a healthy diet, regular physical activity, and blood pressure control via check-ups. As such, Earn aims to incentivise healthy behaviours to create long-term impact.
 
 Earn will recognise six categories of healthy activities that when tracked and verified, allocates users with points, shown in table below. Each activity has a yearly limit according to the recommended frequency, for example, an annual health screening being sufficient for the general population. However, activities like walking 12,000 steps a day and purchasing fresh foods can be logged every day and every week respectively, as these healthy habits promote lifestyle change and address overall wellness by increasing activity rates and micronutrient intake. 
+
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 
 |     Activity                                                  |     Points    |     Yearly Frequency    |     Maximum Points in 1 Year    |
 |---------------------------------------------------------------|---------------|-------------------------|---------------------------------|
