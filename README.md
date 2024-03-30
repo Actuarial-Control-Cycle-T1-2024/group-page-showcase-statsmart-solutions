@@ -121,23 +121,6 @@ To bring to life the program outlined above, it would be recommended that SuperL
 ### 4. Pricing/Costs <a name="pricencost"></a>
 This assessment takes a conservative stance, concentrating solely on mortality savings and excluding potential interest from surplus, to precisely evaluate the effectiveness of interventions on mortality. Key formulas are outlined below, with more detail in Appendix C.5.
 
-Net Savings =
-∑ Δ Benefits Paid + Δ Liabilities – Total Cost
-
-Δ Benefits Paid + Δ Liabilities – Total Cost
-
-Benefits PaidSPWL / T20 =
-∑ from y=2023 to y=2001 (∑ for all Ages (∑ for all policies issued at Age x in Year y ( FaceAmount ) x (Ax for SPWL A1x:m for T20)))
-
-Liabilities =
-∑ for All Active Policies ( FaceAmount ) x (Ax for SPWL A1x:m for T20)
-
-Where:
-Δ = baseline – simulation for each intervention
-m = min(20, 2023 – Issue Year (y))
-x̄ = average age of the group
-n̄ = average remaining policy term
-
 <p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/formula.png?raw=true" />
 </p>
