@@ -134,6 +134,10 @@ Figure 2 below summarizes the expected mortality savings – in Billion Crowns -
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/savings_graph.png?raw=true" />
 </p>
 
+Along with financial savings, this wellness program has several other benefits for SuperLife and its stakeholders. One inherent benefit is the overall health improvement for policyholders, and for Lumarians as a whole. Participating in health screenings, reducing cancer risk factors, decreasing smoking levels and doing healthy activities all promote better lifestyles for policyholders and for their relatives and friends who may also gain awareness of healthy behaviours. Further, this program directly helps SuperLife to practice Corporate Social Responsibility (CSR) by focusing on the needs of its customers (to live longer and healthier lives). This is not only ethical and beneficial to society, but also builds a better brand reputation for SuperLife. Finally, StatSmart’s proposed program would also improve employee satisfaction and engagement as they work with the knowledge that their products are helping others to improve their lifestyles. 
+
+In the medium to long term, a key factor for SuperLife to consider is whether premiums can be reduced to reflect the improvement in mortality.  This may come in the form of overall re-pricing, or of variable premium discounts to policyholders based on their participation in the incentives. While this may reduce SuperLife’s premium income, it would likely boost policyholder participation, attract new customers, and improve the company’s brand reputation. 
+
 ### 5. Key Assumptions <a name="keyassumptions"></a>
 
 |     Metric                                    |     Assumed   Value                                                                                                                     |     Reasoning   including analysis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -146,6 +150,7 @@ Figure 2 below summarizes the expected mortality savings – in Billion Crowns -
 
 
 ### 6. Risk and Risk Mitigation Considerations <a name="risksmitigation"></a>
+The program proposed by the StatSmart team offers SuperLife an excellent opportunity to financially benefit themselves, whilst also improving the lives of their policyholders. Despite this, it comes with multiple risks that could impact the overall profitability of the program. After considering these risks, the StatSmart team is almost certain that the proposed program would have lowered mortality over the last 23 years, and even more certain that it will decrease mortality going forward. This is backed up by the research completed by the team where there is no evidence of any similar interventions to the four proposed by StatSmart not decreasing the mortality rate. To add to this, the StatSmart team has also conducted thorough sensitivity analysis to confirm that there is a very low chance that this program does not create economic value for SuperLife. For further information regarding the sensitivity analysis, refer to Section 6.4.
 
 ### 6.1 Ethical Risks <a name="ethicalrisks"></a>
 
