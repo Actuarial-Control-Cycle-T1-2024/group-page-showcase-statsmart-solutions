@@ -79,7 +79,7 @@ Earn will recognise six categories of healthy activities that when tracked and v
 
 <style scoped>
 table {
-  font-size: 13px;
+  font-size: 14px;
 }
 </style>
 
