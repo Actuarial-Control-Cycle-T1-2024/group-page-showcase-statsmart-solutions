@@ -125,9 +125,6 @@ This assessment takes a conservative stance, concentrating solely on mortality s
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/formula.png" />
 </p>
 
-attempt 2:
-![Model](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/formula.png)
-
 ### 4.1. Overall Savings and Benefits <a name="overallsavings"></a>
 
 ### 5. Key Assumptions <a name="keyassumptions"></a>
