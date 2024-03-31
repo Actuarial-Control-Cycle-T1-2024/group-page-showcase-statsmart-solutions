@@ -247,16 +247,16 @@ An exploratory Data Analysis was done to understand the enforce data set prior t
 </p>
 
 #### Multivariate Analysis:
-<p align="left">
+<p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_1.png?raw=true" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_2.png?raw=true" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_3.png?raw=true" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_4.png?raw=true" />
 </p>
 
@@ -282,7 +282,7 @@ A similar positive trend can be anticipated for Earn, as Lumaria’s economy clo
 
 In the short to medium term, SuperLife should monitor the participation rates of the SuperLife app, adjusting the point system to keep a balance of high user count and financial viability of the reward outflows. In the long term, SuperLife should add other activities to the points system, including mental health check-ups, participation in cognitive programs, and fitness challenges, to make points more accessible to a diverse userbase.
 
-#### 9.2.1. Appendix B.2 - Screen Supporting Analysis
+#### 9.2.2. Appendix B.2 - Screen Supporting Analysis
 
 #### Reason for Screenings Chosen
 As cancer is a top killer of SuperLife policyholders, to reduce this and other diseases, SuperLife should encourage policyholders to do preventive cancer screenings and pathology tests during a general health check-up, by rewarding them with financial incentives. Although a screening can provide benefits of early detection, it comes with risks as screening tests can be harmful due to radiation, injury and more (Care, 2019). To determine which screening programs should be accessible to the public, governments use the World Health Organization’s population-based screening framework which decides on the criteria to ensure that the benefits of the screening outweighs the risk. These population-based screenings are offered to everyone in a certain group as part of an organised program. 
@@ -303,15 +303,64 @@ We assume Lumaria’s population-wide screening programs to be the common popula
 To evaluate this intervention’s performance, SuperLife should monitor the participation rate of each type of screening within the first year to see if it incentivises policyholders to get a screening. In the long run, SuperLife should monitor the participation data and frequency of how often a policyholder gets a specific kind of screening as some screenings can only be tested once every few years. This information will inform SuperLife on how it should adapt the reportable screenings to suit the needs and health of the policyholders.  
 
 
-#### 9.2.1. Appendix B.3 - Quit Supporting Analysis
+#### 9.2.3. Appendix B.3 - Quit Supporting Analysis
+#### Program Design & Features
+As discussed in the main body of the report, Quit will involve three aspects: counselling, insurance coverage of certain medications, and access to the national tobacco quitline. The counselling will take the form of virtual or face-to-face sessions, and can be held privately or in a group setting, as preferred by the policyholder. Policyholders should be encouraged to sign up for a package of counselling sessions, preferably between 6 and 12 total weekly meetings, to avoid the risk of reneging on the program if required to actively sign up every week. The counselling would involve behavioural therapy and strategies on reducing withdrawal symptoms, learning from prior quit attempts, managing cravings and triggers, and maintaining motivation to quit (Fiore et al., 2008). Along with counselling, SuperLife should offer access to medications that reduce nicotine dependence, such as Nicotine Replacement Therapies (NRTs) and non-nicotine-based medications (Lindson et al., 2019). Used individually, these medications are shown, on average, to double quit rates, with even higher success rates when used in combination (Cahill et al., 2013). Insurance coverage of FDA-approved tobacco cessation medication is required in the US and many other countries worldwide, and is found to be highly cost-effective in promoting smoking cessation, thereby demonstrating the importance of SuperLife adopting this approach in Lumaria (Centre for Disease Control, 2021). 
+
+#### Timeframe Evaluation
+To evaluate the success of Quit, SuperLife should first monitor participation rates of the program and the proportion of smokers in the in-force population, to identify whether participation does indeed lead to success in quitting smoking. This monitoring should be done every 6 months throughout the duration of the program, with adjustments made to the offerings, marketing, and delivery of the program if results are worse than desired. In the medium to long term, SuperLife should monitor the changes in mortality of smokers in their policyholder population, to confirm that mortality is indeed improving. If this is not the case, SuperLife should consider whether this is caused by insufficient knowledge of the program, difficulty in accessing the program’s resources, high relapse rates or other reasons. Solutions and adjustments can then be tailored to the underlying issue. 
+
+#### 9.2.4. Appendix B.4 - Prevent Supporting Analysis
+#### Timeframe Evaluation
+Evaluation of this program should be conducted on an annual basis. This evaluation will be predominantly aimed at testing the uptake of the app (total users), the number of people that read the pop up (specified number of seconds until exited is considered read) and articles for the first five years. After this, it should include looking at both the overall mortality rate and the cancer mortality rate.
+
+#### Delivery Strategy Research
+|     Delivery Strategy                    |     Advantages                                                                                                                                                                                                                                                |     Disadvantages                                                               |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|     Email                                |     Reaches 100% of the policyholders but   a newsletter email has just a 1% conversion rate (mailmunch, 2023)                                                                                                                                                |     Very easy for policyholders to ignore and is likely treated as spam mail    |
+|     Publications posted on website       |     Ability to provide lots of   information                                                                                                                                                                                                                  |     Very low reach percentage and not easily accessible                         |
+|     Publications on app                  |     Ability to provide lots of information                                                                                                                                                                                                                    |     Low reach percentage                                                        |
+|     Pop up through mobile app/website    |     Highest conversion rate of any   strategy. According to Optimonk, the conversion rates for a pop up through   mobile is 11.07% and the desktop pop up has a conversion rate of 9.69% (Optimonk,   2024). It also has a higher reach than publications.    |     Although reaching the customer, it may not be read                          |
+|     Notification to phone                |     Higher reach than publications and higher   conversion rate than other strategies                                                                                                                                                                         |     Very easy to ignore as policyholders can turn off notifications             |
 
 
-#### 9.2.1. Appendix B.4 - Prevent Supporting Analysis
+#### Nine modifiable key risk factors from theactuary.com (Schiergens, Smith, 2023): 
+- Smoking/Tobacco use
+- Alcohol
+- Nutrition and Diet
+- Physical activity
+- Obesity
+- Diabetes
+- Infections e.g. HPV and Hep B/C
+- Radiation e.g. sunlight, ionising radiation
+- Pollution and environmental risk factors, e.g. exposure to certain chemicals 
+
+#### Five non-modifiable key risk factors from theactuary.com (Schiergens, Smith, 2023): 
+- Family history and genetics, including random genetic errors
+- Hormonal factors
+- Sex
+- Age
+- Race/ethnicity
+
+#### Program Design – Cancer Prevention Hub 
+The cancer prevention hub will be designed with a range of resources, a summary of exactly how it will be designed can be found below:
+|     Page Type                                                                        |     Pages                                                               |     Contents                                                                                                                                                                                                                                      |
+|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Cancer                                                                           |     A page for the top 10-20 most deadly   cancers in Lumaria           |     1.Outline of the Cancer     2.Characteristics of   people at risk     3.Preventative   Measures (incl. explanation)     4.Symptoms (if any)     5.Links to related   resources (i.e. specific key risk factors or preventative resources)     |
+|     Key Risk Factors                                                                 |     One   page for each of the nine key modifiable risk factors         |     1.Outline the key risk factor     2.Explain the impact     3.How to mitigate   this risk?     4.Links to resources that   help with the actual prevention of these e.g. Smoking Cessation Programs                                            |
+|      Key Risk Factors                                                                            |     One   page for each of the five key non- modifiable risk factors    |     1.Outline of key risk factor     2.Understanding this   non-modifiable risk     3.Links to resources   that help with discovering susceptibility to these risk factors e.g. Genetic   testing                                                 |
+|     Resources for knowledge of preventing or susceptibility to Key Risk Factors    |     Modifiable   risks                                                  |     1.Outline a specific method to mitigate the specific risk   e.g.. A specific companies weight loss programs                                                                                                                                   |
+|        Resources for knowledge of preventing or susceptibility to Key Risk Factors           |     Non-modifiable   risks                                              |     1.Outline a specific method to check if you are susceptible   to the non-modifiable risk e.g. a specific companies genetic testing.                                                                                                           |
+|     Articles                                                                         |     All   important updates in cancer industry                          |     1.Journal Article on any recent cancer news/research                                                                                                                                                                                          |
 
 
-#### 9.2.1. Appendix B.5 - Evaluation Timeframe
+#### 9.2.5. Appendix B.5 - Evaluation Timeframe
+The timeframe below indicates the recommended timeframe for the evaluation of the overall program. For more specific details on the individual interventions refer to Appendix B.
 
+<p align="center">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Evaluation_Timeframe_Main.png?raw=true" />
+</p>
 
-
-
-
+<p align="center">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Evaluation_Timeframe_Legend.png?raw=true" />
+</p>
