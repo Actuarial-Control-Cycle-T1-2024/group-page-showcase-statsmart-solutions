@@ -77,6 +77,11 @@ Leveraging the rising trend of technology literacy in Lumaria, a gamified point 
 
 Earn will recognise six categories of healthy activities that when tracked and verified, allocates users with points, shown in table below. Each activity has a yearly limit according to the recommended frequency, for example, an annual health screening being sufficient for the general population. However, activities like walking 12,000 steps a day and purchasing fresh foods can be logged every day and every week respectively, as these healthy habits promote lifestyle change and address overall wellness by increasing activity rates and micronutrient intake. 
 
+<style scoped>
+table {
+  font-size: 14px;
+}
+</style>
 
 |     Activity                                                  |     Points    |     Yearly Frequency    |     Maximum Points in 1 Year    |
 |---------------------------------------------------------------|---------------|-------------------------|---------------------------------|
@@ -284,11 +289,11 @@ We assume Lumaria’s population-wide screening programs to be the common popula
 |     Screening                    |     Criteria                                                                                                                                        |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |     General   Health Check Up    |     All policyholders   are eligible                                                                                                                |
-|     Cervical   Cancer            |     - Age 25-74     - Female only or   people with a cervix     - Once every 5 years                                                                |
-|     Breast   Cancer              |     - Age 50 -74     - Female only     - Once every 2 years                                                                                         |
-|     Bowel   Cancer               |     - Age 50-74     - Once every 2 years                                                                                                            |
-|     Lung   Cancer                |     - Age 50-74     - Currently smoking   or has quit in past 15 years     - Have a 20 pack-year   or more smoking history     - Once every year    |
-|     Colorectal   Cancer          |     - Age 50-74     - Once every 2 years                                                                                                            |
+|     Cervical   Cancer            |     A female or person with a cervixx aged 25-74 once every 5 years   |
+|     Breast   Cancer              |     A female aged 50-74 once every 2 years               |
+|     Bowel   Cancer               |     Anyone aged 50-74 once every 2 years                                    |
+|     Lung   Cancer                |     Any former (past 15 years) or current smoker aged 50-74 once every year    |
+|     Colorectal   Cancer          |     Anyone aged 50-74 once every 2 years                                    |
 
 #### Timeframe Evaluation
 To evaluate this intervention’s performance, SuperLife should monitor the participation rate of each type of screening within the first year to see if it incentivises policyholders to get a screening. In the long run, SuperLife should monitor the participation data and frequency of how often a policyholder gets a specific kind of screening as some screenings can only be tested once every few years. This information will inform SuperLife on how it should adapt the reportable screenings to suit the needs and health of the policyholders.  
