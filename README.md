@@ -363,4 +363,17 @@ The timeframe below indicates the recommended timeframe for the evaluation of th
 
 <p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Evaluation_Timeframe_Legend.png?raw=true" />
-</p>
+</p>    
+
+#### 9.3.1. Appendix C.1 - Savings Model
+The efficacy of each intervention is measured by examining the difference in benefits paid out from 2001 to 2023, along with adjustments in the insurance liabilities as of the year-end 2023 for the remaining active policyholders. This method intentionally omits considerations related to the asset side of the balance sheet and the potential interest accruing from an increased surplus due to reduced and deferred benefit payments. By adopting this approach, the methodology ensures a conservative and focused evaluation of the interventions, emphasizing the direct impacts on the insurer's obligations and pay-outs, thereby providing a clear view of the interventions' effectiveness from a mortality improvement standpoint.
+
+The baseline is based on the provided mortality table with mortality adjustments - 88% for the general population and 811% when modelling only smokers – to match the actual experience of Benefits Paid. After that, in the simulation of each intervention impact, we apply a mortality improvement rate to the adjusted mortality table to calculate benefits and liabilities that would have resulted if such intervention has been implemented.
+
+To calculate the savings, there were two separate calculations required: the benefits paid and the liabilities. The formulas used to calculate the benefits paid and liabilities are below; for further details refer to the savings model attached to this report.
+
+<p align="center">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Savings_Equations.png?raw=true" />
+</p>   
+
+The costs for each year for were estimated using the assumptions provided in Appendix D.1. For further information on the costs of each intervention, refer to the supporting documents.
