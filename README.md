@@ -171,6 +171,7 @@ The program proposed by the StatSmart team offers SuperLife an excellent opportu
 |     Technology risk          |     The program relies heavily on both the   development and ongoing maintenance of the app.                           |     IT specialists within SuperLife will need   to focus on ensuring that the app is working smoothly. Several redundancy and   backup mechanisms must be in place. In the event of critical system failure,   failover mechanisms and recovery protocols must be in place.                                                                                                                                                    |
 
 ### 6.3 Risk Matrix <a name="riskmatrix"></a>
+As shown in the risk matrix below, most main risks have a low likelihood of occurrence but a high impact on the company’s performance. Appropriate risk mitigations measures have been implemented to reduce this impact and ensure the company remains in business.
 
 <p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/risk_matrix.png?raw=true" />
