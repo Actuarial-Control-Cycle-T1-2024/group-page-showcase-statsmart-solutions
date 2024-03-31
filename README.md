@@ -217,6 +217,38 @@ An exploratory Data Analysis was done to understand the enforce data set prior t
 -	Urban VS Rural are randomly distributed.
 -	Underwriting Class is mostly correlated with Smoking Status, no other anomalies found.
 
+#### Data Quality Check:
+|     Column Name               |     Type/ Structure                                          |     Data Quality Check                                                                                                                                                                       |
+|-------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Policy   number           |     123abc456def                                             |     No duplicates found                                                                                                                                                                      |
+|     Issue year                |     YYYY                                                     |     CLEAN                                                                                                                                                                                    |
+|     policy type               |     (T20, SPWL}                                              |     CLEAN                                                                                                                                                                                    |
+|     Issue age                 |     zz                                                       |     CLEAN                                                                                                                                                                                    |
+|     sex                       |     {M, F)                                                   |     CLEAN                                                                                                                                                                                    |
+|     Face amount               |     R                                                        |     CLEAN                                                                                                                                                                                    |
+|     Smoker   status           |     {S, NS)                                                  |     CLEAN                                                                                                                                                                                    |
+|     underwriting   class      |     (very low   risk, low risk, moderate risk, high risk}    |     CLEAN                                                                                                                                                                                    |
+|     urban vs   Rural          |     (Urban,   Rural)                                         |     CLEAN                                                                                                                                                                                    |
+|     Region                    |     Z                                                        |     CLEAN                                                                                                                                                                                    |
+|     Distribution   Channel    |     {Agent,   Telemarketer)                                  |     "Online" was not in the   description. It is observed starting from 2009 onwards, in addition to the   other 2 channels.                                                                 |
+|     Death   indicator         |     {0, 1}                                                   |     The data shows NA rather than 0                                                                                                                                                          |
+|     Year Of   Death           |     YYYY                                                     |     There are 64,067 blanks, other than the   "NA"s                                                                                                                                          |
+|     Lapse   Indicator         |     {0, 1}                                                   |     There are no "0"s. Instead:   "Y"s were used for lapses in years 2008 & 2009. "1"s   were used for lapses in the remaining years. "NA"s have no lapse   years so they mean no lapses.    |
+|     Year of   Lapse           |     YYYY                                                     |     CLEAN                                                                                                                                                                                    |
+|     Cause of   Death          |     xzz-xzz                                                  |     16 codes for deaths. There are Blanks for   policies of Active/Lapsed/Dead policyholders. There are "NA"s for   Active/Lapsed policyholders.                                             |
+
+#### Univariate Analysis:
+<p align="center">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Univariate_Analysis.png?raw=true" />
+</p>
+
+#### Multivariate Analysis:
+<p align="left">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_1.png?raw=true" />
+</p>
+<p align="right">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_2.png?raw=true" />
+</p>
 
 
 ### 9.2. Appendix B - Program Design Appendix
@@ -224,16 +256,16 @@ An exploratory Data Analysis was done to understand the enforce data set prior t
 #### 9.2.1. Appendix B.1 - Earn Supporting Analysis
 
 
-#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+#### 9.2.1. Appendix B.2 - Screen Supporting Analysis
 
 
-#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+#### 9.2.1. Appendix B.3 - Quit Supporting Analysis
 
 
-#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+#### 9.2.1. Appendix B.4 - Prevent Supporting Analysis
 
 
-#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+#### 9.2.1. Appendix B.5 - Evaluation Timeframe
 
 
 
