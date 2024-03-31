@@ -171,15 +171,12 @@ The program proposed by the StatSmart team offers SuperLife an excellent opportu
 |     Technology risk          |     The program relies heavily on both the   development and ongoing maintenance of the app.                           |     IT specialists within SuperLife will need   to focus on ensuring that the app is working smoothly. Several redundancy and   backup mechanisms must be in place. In the event of critical system failure,   failover mechanisms and recovery protocols must be in place.                                                                                                                                                    |
 
 ### 6.3 Risk Matrix <a name="riskmatrix"></a>
-As shown in the risk matrix below, most main risks have a low likelihood of occurrence but a high impact on the company’s performance. Appropriate risk mitigations measures have been implemented to reduce this impact and ensure the company remains in business.
 
 <p align="center">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/risk_matrix.png?raw=true" />
 </p>
 
 ### 6.4 Sensitivity Analysis <a name="sensitivity"></a>
-
-The survival model utilized median scenario assumptions tailored for each intervention in the cost-benefit analysis, detailed further in Appendix C. Below, we present a comprehensive overview of the sensitivity analysis outcomes (full sensitivity analysis in Appendix E.3), focusing on pivotal assumptions that impact Net Savings.
 
 |     Assumption                 |     Minimum Net Savings (000,000’s)    |     Maximum Net Savings (000,000’s)    |     Recommended Range                                                                                                                                                                                                                                                                                                          |
 |--------------------------------|----------------------------------------|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -249,17 +246,57 @@ An exploratory Data Analysis was done to understand the enforce data set prior t
 <p align="left">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_1.png?raw=true" />
 </p>
-<p align="right">
+<p align="left">
   <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_2.png?raw=true" />
 </p>
-
+<p align="left">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_3.png?raw=true" />
+</p>
+<p align="left">
+  <img src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-statsmart-solutions/blob/main/images/Multivariate_Analysis_4.png?raw=true" />
+</p>
 
 ### 9.2. Appendix B - Program Design Appendix
 
 #### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+By forging mutually beneficial partnerships with technology companies, major retailers and airlines, Earn aims to reward healthy policyholders by giving them the option to convert their earned points into discounts for common lifestyle spendings. Forging such partnerships is highly viable especially for grocers and wearables companies, as partnered firms tap into a health-conscious customer base who track their health, leading to repeat business and loyalty. In Australia, insurer AIA’s wellness app AIA Vitality has partnered with over 30 national and multinational corporations, showing the high demand for partnerships for a similar initiative (AIA, 2023).
 
+Using financial incentives to improve mortality has proven highly effective in the US life insurance market, as John Hancock’s behaviour change platform ‘Vitality’ saw participating policyholders living 13-21 years longer than unparticipating insured population, with its extensive lifestyle discount rewards growing its membership base twofold within two years of release (Vitality, 2018). This unwavering participation can be attributed to the app’s gamification elements, as points and quizzes are shown to positively influence user behaviour and participation. (Pechenkina et al. 2017)
+
+A similar positive trend can be anticipated for Earn, as Lumaria’s economy closely follow that of the US, namely the age and income distribution, alongside health, literacy, and mortality rates.  Hence, in calculating the total costs required for Earn, we assume that the participation rates for SuperLife’s app follow that of John Hancock Vitality, but with high and low margins to account for variability.
+
+#### Reward Tiers and Associated Costs
+|     Reward Tier    |     Points          |     Cost (Č)    |
+|--------------------|---------------------|-----------------|
+|     Blue           |     0 - 999         |     0           |
+|     Bronze         |     1000 - 1999     |     20          |
+|     Silver         |     2000 - 2999     |     40          |
+|     Gold           |     3000 - 4999     |     60          |
+|     Platinum       |     5000+           |     80          |
+
+#### Timeframe Evaluation
+
+In the short to medium term, SuperLife should monitor the participation rates of the SuperLife app, adjusting the point system to keep a balance of high user count and financial viability of the reward outflows. In the long term, SuperLife should add other activities to the points system, including mental health check-ups, participation in cognitive programs, and fitness challenges, to make points more accessible to a diverse userbase.
 
 #### 9.2.1. Appendix B.2 - Screen Supporting Analysis
+
+#### Reason for Screenings Chosen
+As cancer is a top killer of SuperLife policyholders, to reduce this and other diseases, SuperLife should encourage policyholders to do preventive cancer screenings and pathology tests during a general health check-up, by rewarding them with financial incentives. Although a screening can provide benefits of early detection, it comes with risks as screening tests can be harmful due to radiation, injury and more (Care, 2019). To determine which screening programs should be accessible to the public, governments use the World Health Organization’s population-based screening framework which decides on the criteria to ensure that the benefits of the screening outweighs the risk. These population-based screenings are offered to everyone in a certain group as part of an organised program. 
+
+We assume Lumaria’s population-wide screening programs to be the common population-wide screening programs implemented by governments around the world (Australia, Canada, US and UK). These are cervical, bowel, breast, lung and colorectal cancers. Other cancers such as ovarian, prostate, thyroid and more have screenings as well but doing such screenings have been found to not reduce deaths or have insufficient evidence to determine the benefits and harms of the screening (Centres for Disease Control and Prevention, 2023).
+
+#### Criteria for Each Preventive Screening/Check-up
+|     Screening                    |     Criteria                                                                                                                                        |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|     General   Health Check Up    |     All policyholders   are eligible                                                                                                                |
+|     Cervical   Cancer            |     - Age 25-74     - Female only or   people with a cervix     - Once every 5 years                                                                |
+|     Breast   Cancer              |     - Age 50 -74     - Female only     - Once every 2 years                                                                                         |
+|     Bowel   Cancer               |     - Age 50-74     - Once every 2 years                                                                                                            |
+|     Lung   Cancer                |     - Age 50-74     - Currently smoking   or has quit in past 15 years     - Have a 20 pack-year   or more smoking history     - Once every year    |
+|     Colorectal   Cancer          |     - Age 50-74     - Once every 2 years                                                                                                            |
+
+#### Timeframe Evaluation
+To evaluate this intervention’s performance, SuperLife should monitor the participation rate of each type of screening within the first year to see if it incentivises policyholders to get a screening. In the long run, SuperLife should monitor the participation data and frequency of how often a policyholder gets a specific kind of screening as some screenings can only be tested once every few years. This information will inform SuperLife on how it should adapt the reportable screenings to suit the needs and health of the policyholders.  
 
 
 #### 9.2.1. Appendix B.3 - Quit Supporting Analysis
