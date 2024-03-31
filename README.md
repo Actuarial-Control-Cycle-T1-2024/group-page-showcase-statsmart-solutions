@@ -197,9 +197,48 @@ The program proposed by the StatSmart team offers SuperLife an excellent opportu
 |     Policyholder   Data              |     There   was limited data on the policyholders.                                                     |     There   was very limited data that StatSmart could use to infer the mortality of the   policyholders.     There   was no policyholder behaviour data i.e. how much they used the SuperLife   website.     |
 |     SuperLife   data                 |     There   was no data on SuperLife                                                                   |     It   was impossible to understand SuperLife’s full offerings and potential to pair   with other products.                                                                                                 |
 
+Although there are various limitations imposed on our solution as stated above, StatSmart has used appropriate and realistic assumptions to mitigate this limitation and hence, our solution is justifiable and can be used. However, if Lumaria data does exist, StatSmart encourages SuperLife to rerun the model using it to see more accurate results. 
+
 ### 8. Conclusion and Next Steps <a name="conclusion"></a>
 
+SuperLife will have an overall mortality saving of Č4.6B if this program was used in the past 23 years. We recommend SuperLife to perform several actions in the future to ensure profitability, attract customers and encourage healthy behaviour. These actions include using premium data to determine and incorporate premium discounts as part of the rewards for health behaviour and customer acquisition. SuperLife should also consider gaining more data on the factors that can affect mortality and use the cox regression model to isolate each covariate’s effects on mortality. Finding the exact causes of death will also allow SuperLife to determine a more specific action plan to decrease mortality through the reward program. Ultimately, we believe that our proposed wellness plan will not only benefit SuperLife, but also the community of Lumaria as a whole.
+
 ### 9. Appendix <a name="appendix"></a>
+
+### 9.1. Appendix A - Exploratory Data Analysis (incl. Data Quality Check)
+
+#### Findings:
+An exploratory Data Analysis was done to understand the enforce data set prior to designing the program. We created dashboards that were used to slice the data and understand the characteristics of each group of policyholders. Here is a list of key findings:
+-	Percentage of smokers significantly decreased throughout the Issue years 2001-2023 (T20 from 12% to 6%) and (SPWL from 10% to 0.3%).
+-	Smokers are mostly Males under T20 Policy & are always classified as moderate or high risk. They mostly die due to Circulatory Systems while Non-smokers mostly die due to Neoplasms.
+-	SPWL starts from age 35 and is mostly sold through an agent.
+-	T20 starts from age 26 and is evenly distributed across the distribution channels.
+-	The data is randomly distributed across all regions. No Region-specific anomalies were found.
+-	Distribution Channels only correlate with the Type of Policy with no other anomalies.
+-	Urban VS Rural are randomly distributed.
+-	Underwriting Class is mostly correlated with Smoking Status, no other anomalies found.
+
+
+
+### 9.2. Appendix B - Program Design Appendix
+
+#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+
+
+#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+
+
+#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+
+
+#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+
+
+#### 9.2.1. Appendix B.1 - Earn Supporting Analysis
+
+
+
+
 
 
 * Titles + Table of contents + Page 1, 2, 3: Alex
@@ -207,3 +246,4 @@ The program proposed by the StatSmart team offers SuperLife an excellent opportu
 * Page 6, 7: Mohammed
 * Page 8, 9: Kate
 * Page 10, ONLY relevant Appendix: Ptolemy
+
